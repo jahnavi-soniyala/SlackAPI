@@ -27,10 +27,13 @@ A simple Node.js and Express application to interact with the Slack API. This ap
 ## 📁 Project Structure
 
 ```
-slack-api-assignment/
+SlackAPI/
 ├── index.js
 ├── .env
 ├── package.json
+├── package-lock.json
+├── LICENSE
+├── .gitignore
 └── README.md
 ```
 
@@ -41,8 +44,8 @@ slack-api-assignment/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/slack-api-assignment.git
-cd slack-api-assignment
+git clone https://github.com/jahnavi-soniyala/SlackAPI.git
+cd SlackAPI
 ```
 
 ### 2. Install dependencies
@@ -134,12 +137,12 @@ node index.js
 
 ## 📝 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [The Unlicense](LICENSE).
 
 ---
 
 ## 👩‍💼 Author
 
 **Jahnavi Sonayala**
-GitHub: [@yourusername](https://github.com/jahnavi-soniyala)
-LinkedIn: [Your LinkedIn](https://linkedin.com/in/jahnavi-sonayala)
+GitHub: [@Jahnavi sonayala](https://github.com/jahnavi-soniyala)</br>
+LinkedIn: [@Jahnavi sonayala](https://linkedin.com/in/jahnavi-sonayala)
